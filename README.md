@@ -1,4 +1,4 @@
-MyBlock AdBlocker
+AdBlocker
 This is a basic adblocking extension developed as part of a personal project to block common advertising domains in the browser.
 
 Getting Started
